@@ -1,0 +1,9 @@
+header {
+    background-image: url(../images/banner/banner_image.png);
+
+}
+
+.banner {
+    padding: 50px 200px;
+    width: 50%;
+}
