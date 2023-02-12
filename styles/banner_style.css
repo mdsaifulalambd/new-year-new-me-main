@@ -1,9 +1,15 @@
 header {
-    background-image: url(../images/banner/banner_image.png);
+    background-image: url(../images/banner/image.png);
+    background-size: cover;
 
 }
 
 .banner {
-    padding: 50px 200px;
-    width: 50%;
+    padding: 100px 200px;
+    width: 30%;
+}
+
+.banner h2 {
+    font-weight: 800;
+    font-size: 50px;
 }
